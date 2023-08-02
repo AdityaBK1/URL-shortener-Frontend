@@ -8,7 +8,7 @@ import UpdatePassword from "./components/UpdatePassword";
 import Urlshortener from "./components/Urlshortener";
 
 function App() {
-  const url = "https://url-short-be.onrender.com";
+  const url = "https://url-shortener-backend-489g.onrender.com/";
   return (
     <>
       <Router>
